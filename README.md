@@ -20,7 +20,7 @@
 
 <div>
   <h4>Now interested in...</h4>
-   <img src="https://img.shields.io/badge/frontend-3F54A3?style=flat-square&logo=VisualStudioCode&logoColor=로고색"/>
+   <img src="https://img.shields.io/badge/Frontend-3F54A3?style=flat-square&logo=&logoColor=로고색"/>
    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=로고색"/>
 </div>
 
