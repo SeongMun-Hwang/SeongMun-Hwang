@@ -7,8 +7,11 @@
 </div>
   
 <div>
-  <h4>Using Tool</h4>
-  </div>
+  <h4>Using Tool</h4>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>          
+</div>
 
 <div>
   <h4>Now interested in...</h4>
