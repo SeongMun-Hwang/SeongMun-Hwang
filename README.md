@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/SeongMun-Hwang/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongMun-Hwang)](https://github.com/SeongMun-Hwang/github-readme-stats)
 </div>
   
 <div>
